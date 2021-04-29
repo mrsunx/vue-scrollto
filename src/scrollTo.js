@@ -355,7 +355,6 @@
       } else {
         done()
       }
-      console.log(animationNumber)
     }
 
     function done() {
